@@ -11,7 +11,6 @@ import io.netty.handler.codec.http.cookie.Cookie;
 import io.netty.handler.codec.http.cookie.ServerCookieDecoder;
 import io.netty.handler.codec.http.cookie.ServerCookieEncoder;
 import io.netty.util.CharsetUtil;
-import me.wonwoo.servlet.NettyHttpServletRequest;
 
 import java.util.List;
 import java.util.Map;

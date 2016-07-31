@@ -7,7 +7,6 @@ import io.netty.handler.codec.http.HttpContentCompressor;
 import io.netty.handler.codec.http.HttpObjectAggregator;
 import io.netty.handler.codec.http.HttpRequestDecoder;
 import io.netty.handler.codec.http.HttpResponseEncoder;
-import me.wonwoo.servlet.NettyContext;
 
 /**
  * Created by wonwoo on 2016. 7. 18..
